@@ -1,4 +1,4 @@
-<html><head>
+<html>
 <style>
   h4 {
     text-align: center;
@@ -32,9 +32,10 @@
   #thumbnail{
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
   }
-</style></head>
-<body><div class="fullCard" id="thumbnail">
+</style>
+<div class="fullCard" id="thumbnail">
 
+</html>
   <div class="cardContent">
     <div class="cardText">
       <h4>Alphabet</h4>
@@ -47,5 +48,3 @@
     </div>
   </div>
 </div>
-</body>
-</html>
