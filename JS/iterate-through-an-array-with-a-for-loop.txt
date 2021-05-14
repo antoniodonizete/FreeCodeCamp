@@ -1,0 +1,16 @@
+// Setup
+
+var myArr = [ 2, 3, 4, 5, 6];
+var total = 0;
+
+//   var i = 0; >> se refere ao indice do array que inicia o loop
+//   i < myArr.length; >> enquanto o length(comprimento) do array for maior que i ele continua executando o loop
+// i ++ >> sequencia i (indice do array) + 1
+for (var i = 0; i < myArr.length; i ++){
+  // var total + o indice do array que está sendo acessado em cada loop
+total += myArr[i];
+}
+ console.log(total);
+
+
+// Only change code below this line
